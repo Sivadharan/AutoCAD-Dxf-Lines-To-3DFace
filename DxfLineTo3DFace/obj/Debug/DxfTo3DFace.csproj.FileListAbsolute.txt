@@ -1,0 +1,10 @@
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\bin\Debug\DxfTo3DFace.exe.config
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\bin\Debug\DxfTo3DFace.exe
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\bin\Debug\DxfTo3DFace.pdb
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\obj\Debug\DxfTo3DFace.csprojAssemblyReference.cache
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\obj\Debug\DxfTo3DFace.frmDxfTo3DFace.resources
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\obj\Debug\DxfTo3DFace.Properties.Resources.resources
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\obj\Debug\DxfTo3DFace.csproj.GenerateResource.cache
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\obj\Debug\DxfTo3DFace.csproj.CoreCompileInputs.cache
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\obj\Debug\DxfTo3DFace.exe
+E:\ServoMind\DxfTo3DFace\DxfTo3DFace\obj\Debug\DxfTo3DFace.pdb
